@@ -93,6 +93,7 @@ public class DesignLaout extends JFrame implements ActionListener
 		jframe=new JFrame("Key Register");
 		jframe.setSize(400,400);
 		
+		
 		//The Distrikt lable and text box
 		Distrikt=new JLabel("Distrikt");
 		Distrikt.setBounds(30, 30, 55, 15);//x axis, y axis, width, height 
