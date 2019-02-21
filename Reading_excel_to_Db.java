@@ -16,11 +16,11 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class DbConnection
+public class Reading_excel_to_Db
 {
 	 public static void main(String[] args) throws IOException, SQLException
 	 {
-		 DbConnection dbc=new DbConnection();
+		 Reading_excel_to_Db dbc=new Reading_excel_to_Db();
 		 dbc.readexcelfile();
 	 }
 	
