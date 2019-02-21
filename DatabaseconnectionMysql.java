@@ -23,6 +23,4 @@ public class DatabaseconnectionMysql
 		return con;
 		
 	}
-	
-
 }
