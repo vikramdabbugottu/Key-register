@@ -93,8 +93,6 @@ class Secondframe extends JFrame
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
-
 	}
 	
 }
