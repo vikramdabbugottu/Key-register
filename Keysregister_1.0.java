@@ -446,3 +446,4 @@ public class Keysregister extends JFrame {
 		setFocusTraversalPolicy(new FocusTraversalOnArray(new Component[]{contentPane}));
 	}
 }
+
