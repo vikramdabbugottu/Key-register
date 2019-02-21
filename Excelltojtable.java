@@ -55,8 +55,6 @@ public class Excelltojtable {
 		f.setSize(600, 800);
 		f.setResizable(true);
 		f.setVisible(true);
-		
-
 	}
 
 }
