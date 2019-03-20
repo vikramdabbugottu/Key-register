@@ -203,3 +203,4 @@ public class KeysRegisterLogin {
 		frmKeyregisterLogin.getContentPane().add(lblNewLabel_1);
 	}
 }
+
