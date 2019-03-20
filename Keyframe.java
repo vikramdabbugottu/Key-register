@@ -476,3 +476,4 @@ public class Keyframe extends JFrame {
 		contentPane.add(btnClear);
 	}
 }
+
